@@ -65,16 +65,6 @@ Ahwaan is a web application designed to provide users with access to various gov
 
 5. **Open [http://localhost:3000](http://localhost:3000) in your browser.**
 
-## Project Structure
-src/
-app/ # Next.js app directory (pages, API routes)
-components/ # React components (chatbot, navbar, footer, etc.)
-context/ # React context providers
-models/ # Mongoose models (User, UserProfile, Report)
-utils/ # Utility functions (DB connection)
-public/ # Static assets (images, SVGs)
-
-
 ## Scripts
 
 - `npm run dev` – Start the development server
